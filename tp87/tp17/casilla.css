@@ -1,0 +1,17 @@
+.casillanegra {
+    background-color:gray;
+    width: 60px;
+    height: 60px;    
+    font-size: 50px;
+    text-align: center;    
+
+}
+
+.casillablanca {
+    background-color:yellow;
+    width: 60px;
+    height: 60px;    
+    font-size: 50px;
+    text-align: center;
+
+}

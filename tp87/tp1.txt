@@ -1,0 +1,16 @@
+React es una librería de Javascript para la generación de interfaces visuales.
+
+Está pensado para generar componentes y ser reutilizadas en proyectos medianos y grandes.
+
+Sus principales competidores son Vue (proyecto iniciado por Evan You en 2014) y Angular (proyecto de Goolge que data de 2010)
+
+React es un proyecto desarrollado por la empresa Facebook y tiene sus inicios en el año 2013
+
+React nos facilita la implementación de páginas SPA (Single-Page Application) o aplicaciones de página única en un sitio web, este tipo de aplicaciones tiene por objetivo dar al visitante una experiencia más parecida a las aplicaciones de escritorio.
+
+Utiliza la metodología de programación orientada a componentes en forma similar a sus competidores Vue y Angular.
+
+Para desarrollar en forma efectiva una aplicación debemos instalar al menos dos herramientas básicas:
+
+Node.js
+create-react-app
